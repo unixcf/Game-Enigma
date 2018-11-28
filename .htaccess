@@ -1,0 +1,1 @@
+RewriteRule ^([0-9a-zA-Z_-]+)$ index.php?pageln_=$1 [NC,L]
