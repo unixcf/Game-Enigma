@@ -1,2 +1,2 @@
 # Game-Enigma
-Desafios de enigma, projeto de game online
+Desafios de enigma, testes de game online
