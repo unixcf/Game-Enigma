@@ -1,2 +1,2 @@
 # Game-Enigma
-Desafios de enigma, testes de game online
+Um projeto de sistema de Enigma em PHP
